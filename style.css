@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
 .content{
     display: inline-block;
     width: 48%;
@@ -12,6 +13,7 @@
 .content p{
     width: 470px;
     font-size: 18px;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 body{
